@@ -14,6 +14,13 @@
 - 📫 How to reach me **githubgithub41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://github.com/danial-fr" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+       alt="danial-fr"
+       height="30"
+       width="40" />
+</a>
 <p align="left">
 
 <a href="https://instagram.com/dani.fr87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dani.fr87" height="30" width="40" /></a>
