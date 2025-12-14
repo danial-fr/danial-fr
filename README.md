@@ -17,12 +17,11 @@
 <p align="left">
 <a href="https://instagram.com/dani.fr87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dani.fr87" height="30" width="40" /></a>
 
-    <a href="https://github.com/danial-fr" target="_blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="danial-fr"
-         height="30"
-         width="40" />
+<a href="https://github.com/danial-fr" target="_blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="danial-fr"
+height="30"
+width="40" />
   </a>
 </p>
 
