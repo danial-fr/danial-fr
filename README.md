@@ -23,13 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dani.fr87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dani.fr87" height="30" width="40" /></a>
 
-<a href="https://github.com/danial-fr" target="_blank">
-<img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"alt="danial-fr"
-height="30"
-width="40" />
-  </a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/D_ani_m)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dani.fr87)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danial-fr)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
