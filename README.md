@@ -34,4 +34,4 @@ width="40" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danial-fr&show_icons=true&locale=en" alt="danial-fr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danial-fr&" alt="danial-fr" /></p>
+
